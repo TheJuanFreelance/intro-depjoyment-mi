@@ -1,0 +1,5 @@
+['remote "dataset-track"']
+    url = gdrive://1jwO29DSYo6PPgmVzjOsJXO_gO_8cOtT8
+    gdrive_client_id = 591973111894-ktoopc4ik0uh1abugg79o0d3f7labsgl.apps.googleusercontent.com
+    gdrive_client_secret = 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
+    gdrive_acknowledge_abuse = true
