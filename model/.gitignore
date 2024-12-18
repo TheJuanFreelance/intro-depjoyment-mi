@@ -1,6 +1,0 @@
-venv/
-notebooks/.ipynb_checkpoints/
-
-*.json
-*.csv
-*.pkl
