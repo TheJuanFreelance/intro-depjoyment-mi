@@ -7,7 +7,7 @@ class PredictionRequest(BaseModel):
     production_budget: float
     title_year: float
     aspect_ratio: float
-    duration: float
+    duration: int
     cast_total_facebook_likes: float
     budget: float
     imdb_score: float
