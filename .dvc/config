@@ -1,9 +1,13 @@
 ['remote "dataset-track"']
     url = gdrive://1jwO29DSYo6PPgmVzjOsJXO_gO_8cOtT8
-    gdrive_client_id = 591973111894-ktoopc4ik0uh1abugg79o0d3f7labsgl.apps.googleusercontent.com
-    gdrive_client_secret = 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
+    gdrive_client_id = 591973111894-t8ufaiclsebi555okuksefcnqblr1cco.apps.googleusercontent.com
+    gdrive_client_secret = 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
     gdrive_acknowledge_abuse = true
 ['remote "model-track"']
     url = gdrive://1GaLUX8W6_2CrbJe3YVTDOmr0pbQa-LPX
-    gdrive_client_id = 591973111894-ktoopc4ik0uh1abugg79o0d3f7labsgl.apps.googleusercontent.com
-    gdrive_client_secret = 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
+    gdrive_client_id = 591973111894-t8ufaiclsebi555okuksefcnqblr1cco.apps.googleusercontent.com
+    gdrive_client_secret = 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
+    gdrive_acknowledge_abuse = true
+['remote "model-track-2"']
+    url = gdrive://1GaLUX8W6_2CrbJe3YVTDOmr0pbQa-LPX
+    gdrive_acknowledge_abuse = true
